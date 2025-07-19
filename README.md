@@ -22,7 +22,7 @@ The final dashboard includes multiple interactive visuals such as KPI cards, tim
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 - **Source**: Global Superstore Sales Dataset (Kaggle)
 - **Records**: ~9,994 orders
 - **Fields Included**:
