@@ -87,7 +87,6 @@ SELECT
 FROM orders
 GROUP BY Ship_Mode;
 
-
 -- City level profit
 SELECT 
   City, State,
@@ -113,5 +112,3 @@ SELECT
 FROM orders
 WHERE Discount > 0.3 AND Profit < 0
 ORDER BY Discount DESC;
-
-
